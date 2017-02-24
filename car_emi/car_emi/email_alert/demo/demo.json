@@ -1,0 +1,25 @@
+{
+ "attach_print": 0, 
+ "creation": "2017-02-02 16:52:15.143019", 
+ "days_in_advance": 0, 
+ "docstatus": 0, 
+ "doctype": "Email Alert", 
+ "document_type": "Customer", 
+ "enabled": 0, 
+ "event": "Save", 
+ "idx": 0, 
+ "is_standard": 1, 
+ "message": "Add your message here\nhello", 
+ "modified": "2017-02-03 12:42:31.364568", 
+ "modified_by": "Administrator", 
+ "module": "Car Emi", 
+ "name": "demo", 
+ "owner": "Administrator", 
+ "recipients": [
+  {
+   "email_by_document_field": "sales_person", 
+   "email_by_role": "Receptionist"
+  }
+ ], 
+ "subject": "Appointment scheduled."
+}

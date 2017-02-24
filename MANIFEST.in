@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include car_emi *.css
+recursive-include car_emi *.csv
+recursive-include car_emi *.html
+recursive-include car_emi *.ico
+recursive-include car_emi *.js
+recursive-include car_emi *.json
+recursive-include car_emi *.md
+recursive-include car_emi *.png
+recursive-include car_emi *.py
+recursive-include car_emi *.svg
+recursive-include car_emi *.txt
+recursive-exclude car_emi *.pyc
